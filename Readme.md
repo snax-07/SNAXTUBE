@@ -1,6 +1,6 @@
-# Chai aur backend
+# SNAX TUBE FOR ENTERTAINMENT
  
- THIS IS THE BACKEND PROJECT FOR BACKEND 
+ THIS IS THE BACKEND PROJECT FOR LOGIC BUILDING
 
 
  - (Live Preview for project)   (https://swanax-live-backend.vercel.app)
